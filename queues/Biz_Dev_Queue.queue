@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Biz Dev Queue</name>
+    <queueMembers>
+        <users>
+            <user>adam2@omnivodigital.com.goldstar</user>
+            <user>dkirkpatrick2@goldstar.com</user>
+            <user>salesforce-api2@goldstar.com</user>
+            <user>jspears2@goldstar.com</user>
+            <user>rgraff2@goldstar.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Lead</sobjectType>
+    </queueSobject>
+</Queue>

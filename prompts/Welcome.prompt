@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Prompt xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Welcome</masterLabel>
+    <promptVersions>
+        <body>Get up and running faster by following your checklist. Click Getting Started in the navigation bar to start now.</body>
+        <customApplication>02u4T000000vAYC</customApplication>
+        <delayDays>1</delayDays>
+        <dismissButtonLabel>Dismiss</dismissButtonLabel>
+        <displayPosition>TopLeft</displayPosition>
+        <displayType>FloatingPanel</displayType>
+        <isPublished>true</isPublished>
+        <masterLabel>Welcome</masterLabel>
+        <publishedByUser>0054T000000KtlV</publishedByUser>
+        <publishedDate>2019-08-14</publishedDate>
+        <shouldDisplayActionButton>false</shouldDisplayActionButton>
+        <startDate>2019-08-14</startDate>
+        <targetAppDeveloperName>LightningSales</targetAppDeveloperName>
+        <targetAppNamespacePrefix>standard</targetAppNamespacePrefix>
+        <targetPageKey1>home</targetPageKey1>
+        <targetPageType>standard__namedPage</targetPageType>
+        <timesToDisplay>1</timesToDisplay>
+        <title>Welcome to Sales Cloud</title>
+        <userAccess>Everyone</userAccess>
+        <versionNumber>1</versionNumber>
+    </promptVersions>
+</Prompt>

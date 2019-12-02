@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer Division</value>
+        </caseValues>
+        <name>account_division</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer Name</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Organizer Names</value>
+        </caseValues>
+        <name>account_name</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer Name (Local)</value>
+        </caseValues>
+        <name>account_name_local</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer Number</value>
+        </caseValues>
+        <name>account_number</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer Advisor</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Organizer Advisors</value>
+        </caseValues>
+        <name>account_owner</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer Site</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Organizer Sites</value>
+        </caseValues>
+        <name>account_site</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer Source</value>
+        </caseValues>
+        <name>account_source</name>
+        <startsWith>Vowel</startsWith>
+    </fields>
+    <fields>
+        <label><!-- AMP Advisor --></label>
+        <name>AMP_Advisor__c</name>
+    </fields>
+    <fields>
+        <label><!-- AMP Facebook --></label>
+        <name>AMP_Facebook__c</name>
+    </fields>
+    <fields>
+        <label><!-- AMP Instagram --></label>
+        <name>AMP_Instagram__c</name>
+    </fields>
+    <fields>
+        <label><!-- AMP Name --></label>
+        <name>AMP_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- AMP Organizer Id --></label>
+        <name>AMP_Organizer_Id__c</name>
+    </fields>
+    <fields>
+        <label><!-- AMP Ranking --></label>
+        <name>AMP_Ranking__c</name>
+    </fields>
+    <fields>
+        <label><!-- AMP Twitter --></label>
+        <name>AMP_Twitter__c</name>
+    </fields>
+    <fields>
+        <label><!-- AMP Website --></label>
+        <name>AMP_Website__c</name>
+    </fields>
+    <fields>
+        <label><!-- Calendar --></label>
+        <name>Calendar__c</name>
+    </fields>
+    <fields>
+        <label><!-- Territories --></label>
+        <name>Territories__c</name>
+    </fields>
+    <caseValues>
+        <plural>false</plural>
+        <value>Organizer</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Organizers</value>
+    </caseValues>
+    <startsWith>Vowel</startsWith>
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label><!-- AMP Details --></label>
+            <section>AMP Details</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Child Account --></label>
+        <name>Child_Account</name>
+    </quickActions>
+    <webLinks>
+        <label><!-- AMP --></label>
+        <name>AMP</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Admin --></label>
+        <name>Admin</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+</CustomObjectTranslation>

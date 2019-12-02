@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Calendar Meeting</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Calendar Meetings</value>
+        </caseValues>
+        <name>calendar_event</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Calendar Meeting Edit</value>
+        </caseValues>
+        <name>calendar_event_edit</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Calendar Meeting Subject</value>
+        </caseValues>
+        <name>calendar_event_subject</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Attendee</value>
+        </caseValues>
+        <name>event_attendee</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Data</value>
+        </caseValues>
+        <name>event_data</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Detail</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Meeting Details</value>
+        </caseValues>
+        <name>event_detail</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Detail Page</value>
+        </caseValues>
+        <name>event_detail_page</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Information</value>
+        </caseValues>
+        <name>event_information</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Invitation</value>
+        </caseValues>
+        <name>event_invitation</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Invitee</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Meeting Invitees</value>
+        </caseValues>
+        <name>event_invitee</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Occurrence</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Meeting Occurrences</value>
+        </caseValues>
+        <name>event_occurrence</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Meeting Record Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Meeting Record Types</value>
+        </caseValues>
+        <name>event_record_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Multi-Person Calendar Meeting</value>
+        </caseValues>
+        <name>group_calendar_event</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Multi-Person Calendar Meeting Edit</value>
+        </caseValues>
+        <name>group_calendar_event_edit</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Group Meeting</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Groups Meetings</value>
+        </caseValues>
+        <name>group_event</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Group Meeting Type</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Groups Meeting Types</value>
+        </caseValues>
+        <name>group_event_type</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <caseValues>
+        <plural>false</plural>
+        <value>Meeting</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Meetings</value>
+    </caseValues>
+    <startsWith>Consonant</startsWith>
+    <layouts>
+        <layout>Event Layout</layout>
+        <sections>
+            <label><!-- Related To --></label>
+            <section>Related To</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>

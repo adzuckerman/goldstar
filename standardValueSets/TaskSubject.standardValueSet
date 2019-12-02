@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>first call</fullName>
+        <default>false</default>
+        <label>first call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>second call</fullName>
+        <default>false</default>
+        <label>second call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>third call</fullName>
+        <default>false</default>
+        <label>third call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>initial conversation</fullName>
+        <default>false</default>
+        <label>initial conversation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>multiple conversations</fullName>
+        <default>false</default>
+        <label>multiple conversations</label>
+    </standardValue>
+</StandardValueSet>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?><CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Organizer</value>
+        </caseValues>
+        <name>company_lead</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Advisor</value>
+        </caseValues>
+        <caseValues>
+            <plural>true</plural>
+            <value>Advisors</value>
+        </caseValues>
+        <name>lead_owner</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Lead Advisor Alias</value>
+        </caseValues>
+        <name>lead_owner_alias</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Lead Advisor Report</value>
+        </caseValues>
+        <name>lead_owner_report</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <caseValues>
+            <plural>false</plural>
+            <value>Lead Rating</value>
+        </caseValues>
+        <name>rating_lead</name>
+        <startsWith>Consonant</startsWith>
+    </fields>
+    <fields>
+        <label><!-- Content Category --></label>
+        <name>Category__c</name>
+        <picklistValues>
+            <masterLabel>Activities &amp; Competitions</masterLabel>
+            <translation><!-- Activities &amp; Competitions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Circus &amp; Magic</masterLabel>
+            <translation><!-- Circus &amp; Magic --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Comedy</masterLabel>
+            <translation><!-- Comedy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Dance</masterLabel>
+            <translation><!-- Dance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Family</masterLabel>
+            <translation><!-- Family --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Foodie</masterLabel>
+            <translation><!-- Foodie --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Lectures &amp; Classes</masterLabel>
+            <translation><!-- Lectures &amp; Classes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Movies &amp; TV</masterLabel>
+            <translation><!-- Movies &amp; TV --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Museums &amp; Attractions</masterLabel>
+            <translation><!-- Museums &amp; Attractions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Music</masterLabel>
+            <translation><!-- Music --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Nightlife</masterLabel>
+            <translation><!-- Nightlife --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shopping &amp; Spa</masterLabel>
+            <translation><!-- Shopping &amp; Spa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sports</masterLabel>
+            <translation><!-- Sports --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Theater</masterLabel>
+            <translation><!-- Theater --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tours &amp; Cruises</masterLabel>
+            <translation><!-- Tours &amp; Cruises --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Event Name --></label>
+        <name>Event_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Run End --></label>
+        <name>Run_End__c</name>
+    </fields>
+    <fields>
+        <label><!-- Run Start --></label>
+        <name>Run_Start__c</name>
+    </fields>
+    <fields>
+        <label><!-- Seasonal Category --></label>
+        <name>Seasonal_Category__c</name>
+        <picklistValues>
+            <masterLabel>Halloween</masterLabel>
+            <translation><!-- Halloween --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Holiday</masterLabel>
+            <translation><!-- Holiday --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>New Years</masterLabel>
+            <translation><!-- New Years --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Territories --></label>
+        <name>Territories__c</name>
+    </fields>
+    <fields>
+        <label><!-- Ticketing System --></label>
+        <name>Ticketing_System__c</name>
+        <picklistValues>
+            <masterLabel>Ticketing System A</masterLabel>
+            <translation><!-- Ticketing System A --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Select Unqualified Reason --></help>
+        <label><!-- Unqualified Reason --></label>
+        <name>Unqualified_Reason__c</name>
+        <picklistValues>
+            <masterLabel>Budget already used</masterLabel>
+            <translation><!-- Budget already used --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Doesn’t want multiple discount channels</masterLabel>
+            <translation><!-- Doesn’t want multiple discount channels --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Doesn’t want to discount</masterLabel>
+            <translation><!-- Doesn’t want to discount --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Event is sold out</masterLabel>
+            <translation><!-- Event is sold out --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Exclusive with ticketing site</masterLabel>
+            <translation><!-- Exclusive with ticketing site --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fundraiser, can’t do commission split</masterLabel>
+            <translation><!-- Fundraiser, can’t do commission split --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Too late to partner</masterLabel>
+            <translation><!-- Too late to partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Too small of capacity</masterLabel>
+            <translation><!-- Too small of capacity --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unresponsive</masterLabel>
+            <translation><!-- Unresponsive --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Wants member info</masterLabel>
+            <translation><!-- Wants member info --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Venue Size --></label>
+        <name>Venue_Size__c</name>
+        <picklistValues>
+            <masterLabel>100 - 499</masterLabel>
+            <translation><!-- 100 - 499 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>1000+</masterLabel>
+            <translation><!-- 1000+ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>500 -1000</masterLabel>
+            <translation><!-- 500 -1000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Under 100</masterLabel>
+            <translation><!-- Under 100 --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>Lead Layout</layout>
+        <sections>
+            <label><!-- Lead Information --></label>
+            <section>Lead Information</section>
+        </sections>
+        <sections>
+            <label><!-- Opportunity --></label>
+            <section>Opportunity</section>
+        </sections>
+    </layouts>
+    <validationRules>
+        <errorMessage><!-- Please select and unqualified reason. --></errorMessage>
+        <name>Require_Unqualified_Reason</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- GoogleMaps --></label>
+        <name>GoogleMaps</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleNews --></label>
+        <name>GoogleNews</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GoogleSearch --></label>
+        <name>GoogleSearch</name>
+    </webLinks>
+</CustomObjectTranslation>
